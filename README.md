@@ -18,3 +18,4 @@ To run the entire pipeline:
 * `train-model-logreg.py`: Trains a logistic regression model.  Saves model as an artifact (`model_logreg.pkl`)
 
 Great project
+Updated from Github
