@@ -19,3 +19,4 @@ To run the entire pipeline:
 
 Great project
 Updated from Github
+Updated from laptop
